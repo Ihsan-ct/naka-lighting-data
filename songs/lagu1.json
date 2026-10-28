@@ -13,5 +13,39 @@
   },
   "timebase": "seconds",
   "duration": null,
-  "events": []
+  "events": [
+    {
+      "time": 1,
+      "targets": ["PAL_1"],
+      "action": "on",
+      "color": [0, 255, 255],
+      "brightness": 2
+    },
+    {
+      "time": 2,
+      "targets": ["ETC_1"],
+      "action": "on",
+      "color": [255, 255, 255],
+      "brightness": 2
+    },
+    {
+      "time": 3,
+      "targets": ["CPS_1"],
+      "action": "on",
+      "color": [255, 0, 255],
+      "brightness": 2
+    },
+    {
+      "time": 4,
+      "targets": ["PAL_1", "ETC_1"],
+      "action": "on",
+      "color": [0, 255, 255],
+      "brightness": 2
+    },
+    {
+      "time": 5,
+      "targets": ["PAL_1", "ETC_1", "CPS_1"],
+      "action": "off"
+    }
+  ]
 }
