@@ -29,12 +29,12 @@
       "brightness": 2
     },
     {
-      "time": 3,
-      "targets": ["CPS_1"],
-      "action": "on",
-      "color": [255, 0, 255],
-      "brightness": 2
-    },
+  "time": 3,
+  "targets": ["CPS_1", "LAZ_1"],
+  "action": "on",
+  "color": [255, 0, 255],
+  "brightness": 2
+},
     {
       "time": 4,
       "targets": ["PAL_1", "ETC_1"],
