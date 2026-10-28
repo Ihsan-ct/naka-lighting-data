@@ -1,0 +1,17 @@
+
+{
+  "version": 1,
+  "id": "mixtape-stadium-breakbeat",
+  "title": "MIXTAPE STADIUM BREAKBEAT",
+  "audio": {
+    "soundIds": [
+      "127552832110686",
+      "133918481419769",
+      "123583890307655"
+    ],
+    "playbackSpeed": 0.4348
+  },
+  "timebase": "seconds",
+  "duration": null,
+  "events": []
+}
