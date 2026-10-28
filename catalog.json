@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "name": "NAKA Lighting Show",
+  "shows": [
+    {
+      "id": "mixtape-stadium-breakbeat",
+      "title": "MIXTAPE STADIUM BREAKBEAT",
+      "file": "songs/lagu1.json",
+      "soundIds": [
+        "127552832110686",
+        "133918481419769",
+        "123583890307655"
+      ],
+      "playbackSpeed": 0.4348
+    }
+  ]
+}
